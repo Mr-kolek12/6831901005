@@ -1,0 +1,25 @@
+*{
+    text-align: center ;
+}
+
+h2{
+    color: blue;
+}
+
+#xxx{
+    border: 6px dotted rgb(3, 2, 2) ;
+}
+input[type="text"]{
+    color: red;
+    font-weight: bold;
+}
+input[type="password"]{
+    color: green;
+   font-weight: bold;
+}
+
+input[type="submit"]{
+    color: blue;
+    font-weight: bold;
+    height: 30px;
+}
